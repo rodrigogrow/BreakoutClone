@@ -2,7 +2,7 @@
 
 A Breakout clone using HTML5 Canvas.
 
-
+<img src="https://raw.githubusercontent.com/rodrigogrow/BreakoutClone/master/screenshot/screenshot.png" style="width:250px"/>
 
 ## Contributors 
 
